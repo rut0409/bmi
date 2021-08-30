@@ -1,0 +1,7 @@
+Instructions:
+1.complete the code in js and html files.
+2.Initialise node init in cmd.You have to be in same directory where your file is present.
+3.Install express through command line: npm install express
+4.Install bodyparser to get values from html file: npm install body-parser
+5.Install nodemon to automate server when we make chages : npm install nodemon
+6.Run nodemon filename.js to start server
